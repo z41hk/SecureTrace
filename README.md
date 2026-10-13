@@ -163,7 +163,11 @@ Security tests cover SQL injection rejection, lockout, RBAC denial, and SHA-256 
 
 ## Documentation
 
-Full setup notes, ER diagram (Mermaid), data dictionary, structured chart, test-case table, and grading-requirements mapping: **[docs/README.md](docs/README.md)**
+| Document | What it is |
+|----------|------------|
+| **[docs/USER_MANUAL.md](docs/USER_MANUAL.md)** | Operator handbook — how to use every menu and feature |
+| **[docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md)** | Technical guide — architecture, database, security, SQL, modules A to Z |
+| **[docs/README.md](docs/README.md)** | Setup extras: ER diagram, data dictionary, test table, requirements mapping |
 
 ## Academic use
 
