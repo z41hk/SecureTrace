@@ -37,6 +37,8 @@ UTeM         |  Faculty of AI and Cyber Security (FAIX)
 - MySQL Connector/C++ (JDBC / classic API)
 - OpenSSL (SHA-256, PBKDF2-HMAC-SHA256)
 
+**First time on a new PC?** Follow **[docs/SETUP_FROM_SCRATCH.md](docs/SETUP_FROM_SCRATCH.md)** (tools, MySQL, config, build, run).
+
 ## Quick start
 
 ### 1. Database
@@ -165,6 +167,7 @@ Security tests cover SQL injection rejection, lockout, RBAC denial, and SHA-256 
 
 | Document | What it is |
 |----------|------------|
+| **[docs/SETUP_FROM_SCRATCH.md](docs/SETUP_FROM_SCRATCH.md)** | From zero: install tools, create the database, config, build, and run |
 | **[docs/USER_MANUAL.md](docs/USER_MANUAL.md)** | Operator handbook — how to use every menu and feature |
 | **[docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md)** | Technical guide — architecture, database, security, SQL, modules A to Z |
 | **[docs/README.md](docs/README.md)** | Setup extras: ER diagram, data dictionary, test table, requirements mapping |
