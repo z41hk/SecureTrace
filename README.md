@@ -1,6 +1,6 @@
 # SecureTrace
 
-Digital Evidence & Case Management System for Universiti Teknikal Malaysia Melaka (UTeM), Faculty of AI and Cyber Security (FTKKI).
+Digital Evidence & Case Management System for Universiti Teknikal Malaysia Melaka (UTeM), Faculty of AI and Cyber Security (FAIX).
 
 SecureTrace is a **defensive record-keeping** application. It tracks cases, evidence, investigators, chain of custody, users, analysis queries, and reports. It does **not** include hacking, scanning, exploitation, or evidence-extraction tools.
 
