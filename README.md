@@ -6,7 +6,7 @@ SecureTrace is a **defensive record-keeping** application. It tracks cases, evid
 
 ```
 SecureTrace  |  Digital Evidence & Case Management
-UTeM         |  Faculty of AI and Cyber Security (FTKKI)
+UTeM         |  Faculty of AI and Cyber Security (FAIX)
 ```
 
 ## Features
@@ -171,7 +171,7 @@ Security tests cover SQL injection rejection, lockout, RBAC denial, and SHA-256 
 
 ## Academic use
 
-Built for a UTeM FTKKI workshop. Keep credentials out of git (`config/config.ini` is gitignored). Change the demo passwords before any shared or production use.
+Built for a UTeM FAIX workshop. Keep credentials out of git (`config/config.ini` is gitignored). Change the demo passwords before any shared or production use.
 
 ## License
 

@@ -16,7 +16,7 @@ SecureTrace is a **defensive digital-evidence case register**. Lecturers and stu
 
 It is **not** a forensic acquisition toolkit. There is no disk imaging, memory dump, packet capture, vulnerability scan, or exploit code. Hashing only digests a file path or a string the operator already has.
 
-It was built as a C++17 console (and optional Win32 GUI) workshop system for UTeM FTKKI, against a MySQL/MariaDB schema in third normal form.
+It was built as a C++17 console (and optional Win32 GUI) workshop system for UTeM FAIX, against a MySQL/MariaDB schema in third normal form.
 
 ---
 

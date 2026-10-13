@@ -102,7 +102,7 @@ void ConsoleUI::clearScreen() const {
 void ConsoleUI::printBanner() const {
     std::cout << "============================================================\n";
     std::cout << "  SecureTrace  |  Digital Evidence & Case Management\n";
-    std::cout << "  UTeM  |  Faculty of AI and Cyber Security (FTKKI)\n";
+    std::cout << "  UTeM  |  Faculty of AI and Cyber Security (FAIX)\n";
     std::cout << "============================================================\n";
 }
 

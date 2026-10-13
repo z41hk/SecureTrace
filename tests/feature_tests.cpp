@@ -137,7 +137,7 @@ int main() {
         {
             auto stmt = db.prepare(
                 "INSERT INTO investigators (name, role, specialty, department) "
-                "VALUES ('TEST_FEATURE Person', 'Analyst', 'Disk', 'FTKKI')");
+                "VALUES ('TEST_FEATURE Person', 'Analyst', 'Disk', 'FAIX')");
             stmt->executeUpdate();
         }
         check(queryHasRows(db, "SELECT investigator_id FROM investigators WHERE name = 'TEST_FEATURE Person'"),

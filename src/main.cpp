@@ -53,7 +53,7 @@ void printHelp(ConsoleUI& ui) {
 void printAbout(ConsoleUI& ui) {
     ui.printHeader("About");
     std::cout << "SecureTrace 1.0 - Digital Evidence & Case Management\n";
-    std::cout << "UTeM, Faculty of AI and Cyber Security (FTKKI)\n";
+    std::cout << "UTeM, Faculty of AI and Cyber Security (FAIX)\n";
     std::cout << "Defensive record-keeping only. No scanning or exploitation tools.\n";
     ui.pause();
 }

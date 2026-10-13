@@ -6,7 +6,7 @@ How to use every feature of SecureTrace. This is the operator handbook, not the 
 
 ## 1. What this software is
 
-SecureTrace is a **digital evidence and case management** console (and optional Windows GUI) for UTeM FTKKI. You record cases, bag evidence, log who held an item, run analysis queries, and export reports.
+SecureTrace is a **digital evidence and case management** console (and optional Windows GUI) for UTeM FAIX. You record cases, bag evidence, log who held an item, run analysis queries, and export reports.
 
 It does **not** scan networks, extract data from devices, or run exploits. Integrity checking only hashes a file or text you already have.
 

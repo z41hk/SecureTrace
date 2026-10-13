@@ -1,6 +1,6 @@
 # SecureTrace
 
-Digital Evidence & Case Management System for UTeM, Faculty of AI and Cyber Security. Defensive record-keeping only: cases, evidence, investigators, chain of custody, users, analysis, and reports.
+Digital Evidence & Case Management System for UTeM, Faculty of AI and Cyber Security (FAIX). Defensive record-keeping only: cases, evidence, investigators, chain of custody, users, analysis, and reports.
 
 ## Setup
 

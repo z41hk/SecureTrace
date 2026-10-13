@@ -6,11 +6,11 @@ USE securetrace;
 -- viewer / Viewer@123
 
 INSERT INTO investigators (investigator_id, name, role, specialty, department) VALUES
-(1, 'Dr. Aisyah Rahman', 'Lead Analyst', 'Disk Forensics', 'FTKKI'),
-(2, 'Encik Hafiz Abdullah', 'Senior Investigator', 'Network Forensics', 'FTKKI'),
-(3, 'Puan Nurul Izzah', 'Investigator', 'Malware Analysis', 'FTKKI'),
-(4, 'Encik Rajesh Kumar', 'Investigator', 'Mobile Forensics', 'FTKKI'),
-(5, 'Cik Siti Aminah', 'Junior Analyst', 'Log Analysis', 'FTKKI');
+(1, 'Dr. Aisyah Rahman', 'Lead Analyst', 'Disk Forensics', 'FAIX'),
+(2, 'Encik Hafiz Abdullah', 'Senior Investigator', 'Network Forensics', 'FAIX'),
+(3, 'Puan Nurul Izzah', 'Investigator', 'Malware Analysis', 'FAIX'),
+(4, 'Encik Rajesh Kumar', 'Investigator', 'Mobile Forensics', 'FAIX'),
+(5, 'Cik Siti Aminah', 'Junior Analyst', 'Log Analysis', 'FAIX');
 
 INSERT INTO users (user_id, username, password_hash, salt, role, failed_attempts, locked_until, is_active) VALUES
 (1, 'admin',
